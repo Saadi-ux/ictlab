@@ -1,0 +1,22 @@
+
+form {
+    display: block;
+    background-color: gray;
+    border: 3px solid black;
+    width: 600px;
+    border-left: 50%;
+}
+
+.table,
+td {
+    border: 3px solid black;
+    margin: 0 auto;
+    background-color: skyblue;
+    padding 5px;
+}
+.label
+{
+    width: 200px;
+    text-align: right;
+}
+Displaying style.css.
