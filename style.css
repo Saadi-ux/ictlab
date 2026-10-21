@@ -1,22 +1,28 @@
 
 form {
     display: block;
-    background-color: gray;
-    border: 3px solid black;
-    width: 600px;
-    border-left: 50%;
+    background-color: #ddd;
+    width: 670px;
+    margin: 0 auto;
+    padding: 20px;
 }
 
-.table,
-td {
-    border: 3px solid black;
+.table {
+    width: 576px;
+    border: 3px ridge #141414;
+  
     margin: 0 auto;
-    background-color: skyblue;
-    padding 5px;
+    background-color: #cce5ff;
 }
-.label
-{
-    width: 200px;
+
+.table td {
+    background-color: #cce5ff;
+     border: 3px ridge #0e0d0d;
+    padding: 5px;
+}
+
+.label {
+    width: 130px;
     text-align: right;
+    font-weight: bold;
 }
-Displaying style.css.
